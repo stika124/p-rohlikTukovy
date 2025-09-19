@@ -1,0 +1,21 @@
+{
+  "name": "Rohlík Tukový",
+  "nut-values": {
+    "energy_kcal": 191,
+    "energy_kj": 809,
+    "fat_g": 2.76,
+    "saturated_fat_g": 0.3,
+    "carbohydrates_g": 34.8,
+    "sugar_g": 1.44,
+    "protein_g": 6,
+    "fiber_g": 0,
+    "salt_g": 0.84
+  },
+  "image": false,
+  "category": "baked",
+  "weight": 60,
+  "allergens": [1, 7],
+  "barcode": null,
+  "madeIn": "cz",
+  "last_updated": "2025-09-19"
+}
