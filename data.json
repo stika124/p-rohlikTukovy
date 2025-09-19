@@ -11,7 +11,7 @@
     "fiber_g": 0,
     "salt_g": 0.84
   },
-  "image": false,
+  "image": "image.png",
   "category": "baked",
   "weight": 60,
   "allergens": [1, 7],
